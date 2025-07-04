@@ -167,6 +167,8 @@ The original Aliexpress links used by author are no longer available, probably d
 #### Custom PCB Implementation
 The custom PCB includes both USB-B and USB-C footprints for computer connections - solder whichever connector type is suitable for your setup.
 
+The PCB is available to order on [PCBWay](https://www.pcbway.com/project/shareproject/KVMego_A_modular_undetectable_KVM_switch_with_a_built_in_mouse_jiggler_c0eef20d.html)
+
 <img src="media/new_board_no_lcd.jpg" width=50% height=50%>
 
 <img src="media/new_board_lcd.jpg" width=50% height=50%>
