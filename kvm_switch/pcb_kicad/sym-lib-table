@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "kvm_switch_lib")(type "KiCad")(uri "${KIPRJMOD}/kvm_switch_lib.kicad_sym")(options "")(descr ""))
+)
